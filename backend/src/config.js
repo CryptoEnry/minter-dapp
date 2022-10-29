@@ -39,7 +39,7 @@ const format = {
 };
 
 const extraMetadata = {
-
+  external_url: "http://drippingsnakes.xyz"
 };
 
 // NFTPort Info
